@@ -1,0 +1,42 @@
+{
+  "name": "hubot-github-expand",
+  "version": "0.0.0",
+  "description": "Hubot script which listens and expands github resources",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/hubot-github-expand",
+  "keywords": [
+    "node",
+    "hubot",
+    "jira",
+    "atlassian"
+  ],
+  "maintainers": [
+    {
+      "name": "Christophe Hamerling",
+      "email": "christophe.hamerling@gmail.com"
+    }
+  ],
+  "contributors": [],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://mths.be/mit"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/chamerling/hubot-github-expand/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/hubot-github-expand.git"
+  },
+  "engines": {
+    "node": ">6",
+    "npm": ">1.0.x"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "github": "6.0.1",
+    "parse-github-url": "0.3.2"
+  }
+}
