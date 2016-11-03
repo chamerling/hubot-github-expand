@@ -1,6 +1,6 @@
 {
   "name": "hubot-github-expand",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Hubot script which listens and expands github resources",
   "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
   "homepage": "http://github.com/chamerling/hubot-github-expand",
